@@ -1,2 +1,2 @@
 
-Copyright (C) 2021 
+Copyright Dennis Bäckström (C) 2021 
