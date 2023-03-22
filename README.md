@@ -1,1 +1,1 @@
-Short dot game made in UE4
+Tiny "game" made in UE4 using C++ & Blueprints.
